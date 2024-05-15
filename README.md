@@ -17,3 +17,6 @@ Exp 1, 2, 3, 4: /Walk_Front_60.mat
 Exp 5: /car/car_revised
 Exp 6: /IM-with-fixation and /noIM-with-fixation.
 When you run the experiment scripts, it should load corresponding stimuli from actions folder.
+
+## Demos:
+in MovieDemos folder
