@@ -19,4 +19,4 @@ Exp 6: /IM-with-fixation and /noIM-with-fixation.
 When you run the experiment scripts, it should load corresponding stimuli from actions folder.
 
 ## Demos:
-in MovieDemos folder
+in movieDemo folder, example trials of each experiment
