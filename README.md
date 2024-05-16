@@ -1,7 +1,7 @@
 # Biological-Motion---FLE
 
-## Data: 
-PSE-results-all-exp.mat contains the PSEs of all the six experiments. Plotting can be made using plotting.R
+## Data & Analysis: 
+PSE-results-all-exp.mat contains the PSEs of all the six experiments. Plots in the paper can be reproduced using plotting.R
 
 ## Scripts:
 Exp 1: flash_lag_BM_static.m (should change usestatic=0 to show dynamic stimuli)
